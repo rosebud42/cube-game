@@ -32,7 +32,7 @@ Müzik Kontrolü: M tuşu ile müziği başlatma/durdurma özelliği.
 
 
 Kontroller:
-Zıplama                  -> W - ↑ - SPACE 
+Zıplama                  -> W - ↑ - SPACE  <br>
 Sola yürüme              -> A - ←
 Sağa yürüme              -> D - →
 Karakter Değiştirme      -> Q
