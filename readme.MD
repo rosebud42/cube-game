@@ -28,10 +28,10 @@ Arka Plan Müziği: Oyun boyunca sırayla dönen iki adet müzik parçası.
 Ses Efektleri: Zıplama, yürüme, düşme (ölüm) ve seviye geçiş sesleri.
 
 Müzik Kontrolü: M tuşu ile müziği başlatma/durdurma özelliği.
+<br>
 
 
-
-Kontroller:
+Kontroller:<br><br>
 Zıplama                  -> W - ↑ - SPACE  <br>
 Sola yürüme              -> A - ←<br>
 Sağa yürüme              -> D - →<br>
