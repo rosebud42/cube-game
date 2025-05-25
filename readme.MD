@@ -5,6 +5,8 @@ Küpler platformlarda büyüyerek veya küçülerek ilerlemeye çalışır.
 
 Oyunu Oynamak İçin : https://rosebud42.github.io/cube-game/
 
+Oynanış Videosunu İzlemek İçin : https://www.youtube.com/watch?v=OLy1zceBQWI
+
 🎮 Oynanış Mekanikleri
 
 Şekil Değiştirme: Karakterin yüksekliğini veya genişliğini değiştirme özelliği. Bu özellik sayesinde dar alanlardan geçme veya yüksek platformlara ulaşma mümkün olur.
