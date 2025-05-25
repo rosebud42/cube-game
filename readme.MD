@@ -3,6 +3,8 @@ Cube Game JavaScript ve HTML5 Canvas kullanılarak geliştirilmiş bir 2D platfo
 Oyuncunun bir veya iki adet küpü kontrol ettiği bu oyunda 10 adet bölümde bulunan engelleri çeşitli yollarla aşmaya çalışmaktadır. Temel mekanik küplerin kendini büyütüp küçültebilmeleridir.
 Küpler platformlarda büyüyerek veya küçülerek ilerlemeye çalışır.
 
+Oyunu Oynamak İçin : https://rosebud42.github.io/cube-game/
+
 🎮 Oynanış Mekanikleri
 
 Şekil Değiştirme: Karakterin yüksekliğini veya genişliğini değiştirme özelliği. Bu özellik sayesinde dar alanlardan geçme veya yüksek platformlara ulaşma mümkün olur.
