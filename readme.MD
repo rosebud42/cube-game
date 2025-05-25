@@ -33,18 +33,18 @@ Müzik Kontrolü: M tuşu ile müziği başlatma/durdurma özelliği.
 
 Kontroller:
 Zıplama                  -> W - ↑ - SPACE  <br>
-Sola yürüme              -> A - ←
-Sağa yürüme              -> D - →
-Karakter Değiştirme      -> Q
-Büyüme Yönü Değiştirme   -> E
-Büyüme                   -> Mouse Tekeri Yukarı
-Küçülme                  -> Mouse Tekeri Aşağı
-Müziği Durdurma/Başlatma -> M
+Sola yürüme              -> A - ←<br>
+Sağa yürüme              -> D - →<br>
+Karakter Değiştirme      -> Q<br>
+Büyüme Yönü Değiştirme   -> E<br>
+Büyüme                   -> Mouse Tekeri Yukarı<br>
+Küçülme                  -> Mouse Tekeri Aşağı<br>
+Müziği Durdurma/Başlatma -> M<br>
 
 
-Kopyaladığım Oyun : Scaling Cubey / https://sventomasek.itch.io/scaling-cubey
-Oyunda Kullanılan Müzikler : 
-William Tell - Overture
+Kopyaladığım Oyun : Scaling Cubey / https://sventomasek.itch.io/scaling-cubey<br>
+Oyunda Kullanılan Müzikler : <br>
+William Tell - Overture<br>
 Julius Fucik - Entry of the Gladiators
 Ses efektlerini aldığım site : https://craftpix.net
 
