@@ -11,7 +11,7 @@ Oyunu Oynamak İçin : https://rosebud42.github.io/cube-game/
 
 Çift Karakter Sistemi: Oyuncu, iki karakter arasında geçiş yaparak bulmacaları çözmek veya ilerlemek zorundadır. Her karakter bağımsız konumda bulunur.
 
-Çift Zıplama (Double Jump): Karakterler havadayken bir kez daha zıplayabilir.
+Double Jump: Karakterler havadayken bir kez daha zıplayabilir.
 
 Kontrollü Büyüme/Küçülme: Karakterin sadece uygun ortamlarda büyüyebilmesi için çarpışma kontrolleri yapılır. Duvarlara çarparak büyümek engellenir.
 
