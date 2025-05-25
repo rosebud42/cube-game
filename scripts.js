@@ -143,6 +143,7 @@ var wall_levels = { // bölümlerdeki duvar ve diğer zemin konumları
     ],
     6: [
         { x: 660, y: 100, width:400,height:400},
+        { x: 944, y: 0, width:16,height:200},
         { x:0, y:526,width:300,height:300},
     ],
     7:[
